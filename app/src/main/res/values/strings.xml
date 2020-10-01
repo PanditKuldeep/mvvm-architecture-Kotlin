@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVM_Architecture_Kotlin</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signIn">Sign In</string>
+    <string name="show_password">Show Password</string>
+</resources>
